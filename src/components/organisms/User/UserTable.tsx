@@ -108,7 +108,7 @@ export default function UserTable({
       <DynamicTable
         columns={columns}
         data={clients}
-        rowKey={(u: any) => u.uuid}
+        rowKey={(u: any) => u.id}
         emptyMessage="No se encontraron usuarios"
       />
     </div>
