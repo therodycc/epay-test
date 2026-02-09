@@ -3,6 +3,7 @@
 Prueba técnica Frontend desarrollada con **Next.js 16**, **React 19**, **TypeScript** y **Tailwind CSS**, siguiendo una arquitectura **Atomic Design** y consumiendo la API pública **JSONPlaceholder**.
 
 ---
+### El crud no recibe los cambios porque el API de JSON placeholder no cambia, pero todas las acciones están relizadas correctamente. 
 
 ## 📦 Stack Tecnológico
 
