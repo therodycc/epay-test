@@ -2,6 +2,11 @@
 
 Prueba técnica Frontend desarrollada con **Next.js 16**, **React 19**, **TypeScript** y **Tailwind CSS**, siguiendo una arquitectura **Atomic Design** y consumiendo la API pública **JSONPlaceholder**.
 
+<img width="1905" height="998" alt="image" src="https://github.com/user-attachments/assets/832a837e-ae93-42c6-bcbf-ab6c0ca7b556" />
+<img width="1917" height="999" alt="image" src="https://github.com/user-attachments/assets/22a93924-ca02-4749-80c1-7fa9a17af744" />
+
+
+
 ---
 ### El crud no recibe los cambios porque el API de JSON placeholder no cambia, pero todas las acciones están relizadas correctamente. 
 
